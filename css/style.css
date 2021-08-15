@@ -1,0 +1,38 @@
+.site-bg {
+  background-color: #11364efd;
+}
+
+.site-bg .bg-nav-btn {
+  background-color: #da1616;
+}
+
+main .hr-line {
+  margin: auto;
+  width: 70px;
+  border: 2px solid green;
+}
+
+.news-section .anchor-link-d {
+  display: inline-block;
+  padding-top: 5px;
+  text-decoration: none;
+  color: #da1616;
+  border: 2px solid #e27d7d;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+.news-section .active {
+  background-color: #da4747;
+  color: white;
+}
+.news-section .anchor-link-d:hover {
+  background-color: #da4747;
+  color: white;
+}
+.client-section .star-icon {
+  color: #df3737;
+}
+
+.motogp-text {
+  color: #e24313;
+}
